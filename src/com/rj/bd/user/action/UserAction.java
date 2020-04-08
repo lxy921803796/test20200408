@@ -7,6 +7,6 @@ package com.rj.bd.user.action;
 public class UserAction {
 
 	public void hi(){
-		System.out.println("小王说：222");
+		System.out.println("最总修改为：666");
 	}
 }
