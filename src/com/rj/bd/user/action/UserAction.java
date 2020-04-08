@@ -7,6 +7,6 @@ package com.rj.bd.user.action;
 public class UserAction {
 
 	public void hi(){
-		
+		System.out.println("–°’≈Àµ£∫111");
 	}
 }
