@@ -8,4 +8,7 @@ public class AddAction {
 	public void add(){
 		System.out.println("求和....");
 	}
+	public void maxAdd(){
+		System.out.println("求最大值。。。");
+	}
 }
